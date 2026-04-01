@@ -1,4 +1,4 @@
-[bquxjob_7382efa6_19d4a6904b8.csv](https://github.com/user-attachments/files/26419066/bquxjob_7382efa6_19d4a6904b8.csv)# E-Commerce-Revenue-and-Consumer-Analysis-SQL-Project
+[bquxjob_6da5681e_19d4a700116.csv](https://github.com/user-attachments/files/26419178/bquxjob_6da5681e_19d4a700116.csv)[bquxjob_7382efa6_19d4a6904b8.csv](https://github.com/user-attachments/files/26419066/bquxjob_7382efa6_19d4a6904b8.csv)# E-Commerce-Revenue-and-Consumer-Analysis-SQL-Project
 ## Project Description: 
 
 # How many users visit the website daily? 
@@ -13,37 +13,7 @@ count(distinct user_id) AS daily_active_users
  date_accessed
 Limit 30;
 ```
-[Uploading bquxjob_7382efa6_19d4a6date_accessed,daily_active_users
-2019-01-02,0
-2019-01-03,0
-2019-01-04,0
-2019-01-05,0
-2019-01-06,0
-2019-01-07,0
-2019-01-08,0
-2019-01-09,1
-2019-01-10,0
-2019-01-11,0
-2019-01-12,0
-2019-01-13,0
-2019-01-14,1
-2019-01-15,0
-2019-01-16,0
-2019-01-17,0
-2019-01-18,1
-2019-01-19,0
-2019-01-20,0
-2019-01-21,1
-2019-01-22,0
-2019-01-23,0
-2019-01-24,0
-2019-01-25,0
-2019-01-26,1
-2019-01-27,1
-2019-01-28,1
-2019-01-29,0
-2019-01-30,1
-2019-01-31,1904b8.csv…]()
+<img width="1051" height="592" alt="Screenshot 2026-04-01 at 3 05 24 PM" src="https://github.com/user-attachments/assets/11aff33f-63dd-4210-bfc9-7c76280ed570" />
 
 
  
@@ -57,7 +27,10 @@ count(distinct user_id) AS monthly_active_users
  month
  ORDER BY 
  month
+<img width="1710" height="1107" alt="Screenshot 2026-04-01 at 3 07 22 PM" src="https://github.com/user-attachments/assets/adcaa1ab-4416-4d89-a7b3-e9cdaa4b4578" />
 ```
+
+
 
 
  # Revenue Analysis: Find the total revenue by  product category and identify which one yielded the highest profitablity.
@@ -73,9 +46,13 @@ count(distinct user_id) AS monthly_active_users
  p.category
  ORDER BY
  total_revenue desc;
+
 ```
 
- # Identifying Repeat vs One time Customers
+<img width="1710" height="1107" alt="Screenshot 2026-04-01 at 3 08 42 PM" src="https://github.com/user-attachments/assets/14d3cd73-0506-4257-bbf3-5db17d10abe4" />
+
+
+ # Customer Loyalty Analysis
  ```
  SELECT 
  user_id,
@@ -87,3 +64,6 @@ count(distinct user_id) AS monthly_active_users
  FROM `bigquery-public-data.thelook_ecommerce.orders`
  GROUP BY user_id
 ```
+
+
+<img width="1710" height="1107" alt="Screenshot 2026-04-01 at 3 11 13 PM" src="https://github.com/user-attachments/assets/8f3f8565-77fb-464d-a817-54303fda87e9" />
