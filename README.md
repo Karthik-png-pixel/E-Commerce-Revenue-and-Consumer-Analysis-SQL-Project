@@ -15,8 +15,7 @@ Limit 30;
 ```
 <img width="1051" height="592" alt="Screenshot 2026-04-01 at 3 05 24 PM" src="https://github.com/user-attachments/assets/11aff33f-63dd-4210-bfc9-7c76280ed570" />
 
-## User engagement was found to be very minimal to begin the month with most days leading to 0 website visits, however the 2nd half of the month and the subsequent months in the year 2019 steadily saw more and more user engagement albeit still at small numbers. As the e-commerce company grew and the website started gaining more popularity, the subsequent years yielded more and more monthly activity on its website, reaching consistently in the hundreds at its peak in March 2026.
-
+## User engagement was found to be very minimal to begin the month with most days leading to 0 website visits, however the 2nd half of the month and the subsequent months in the year 2019 steadily saw more and more user engagement albeit still at small numbers.
 
  
  # How many users visit the website per month?
@@ -32,6 +31,13 @@ count(distinct user_id) AS monthly_active_users
 ```
 
 <img width="1710" height="1107" alt="Screenshot 2026-04-01 at 7 32 32 PM" src="https://github.com/user-attachments/assets/12e8e76e-cc5d-4a3d-8b84-4cc36d3101ff" />
+
+### 5 year trend 
+<img width="1710" height="1107" alt="Screenshot 2026-04-01 at 7 47 04 PM" src="https://github.com/user-attachments/assets/d6f22537-4151-46ff-a7cf-020d4a98d825" />
+
+
+
+## As the e-commerce company grew and the website started gaining more popularity, the subsequent years yielded higher monthly activity on its website, reaching consistently in the hundreds at its peak. This marked a significant and notable uptick in overall engagement from its early days in 2019 when user activity was largely in the single digits.
 
 
 
