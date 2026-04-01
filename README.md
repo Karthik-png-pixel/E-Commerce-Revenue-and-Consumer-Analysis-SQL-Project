@@ -1,5 +1,5 @@
 [bquxjob_6da5681e_19d4a700116.csv](https://github.com/user-attachments/files/26419178/bquxjob_6da5681e_19d4a700116.csv)[bquxjob_7382efa6_19d4a6904b8.csv](https://github.com/user-attachments/files/26419066/bquxjob_7382efa6_19d4a6904b8.csv)# E-Commerce-Revenue-and-Consumer-Analysis-SQL-Project
-## Project Description: 
+## Project Description: Utilized SQL and BigQuery database to perform revenue and consumer analysis for an E-commerce website to help identify key high performance inventory based on total sales costs, customer loyalty based on number of recurring purchases made by each customer, and website activity on a monthly and daily basis. One of the main goals of this project was to help specific gauge ways in which the e-commerce company could better its sales by foucsing on areas like weaker selling products or targeting the customer segment that aren't purchasing as much from the store. This holistic overview approach will benefit the company in the long run and retain its status as one of the best e-commerce retail wesbites.
 
 # How many users visit the website daily? 
 ```
