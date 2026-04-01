@@ -1,4 +1,4 @@
-# E-Commerce-Revenue-and-Consumer-Analysis-SQL-Project
+[bq-results-20260401-233052-1775086258520.csv](https://github.com/user-attachments/files/26423271/bq-results-20260401-233052-1775086258520.csv)# E-Commerce-Revenue-and-Consumer-Analysis-SQL-Project
 ## Project Description: Analyzed e-commerce data using SQL in BigQuery (thelook_ecommerce dataset) to evaluate customer behavior, sales performance, and website activity. Developed queries to track daily and monthly user engagement and segment customers into one-time and repeat buyers based on purchase behavior.
 
 # How many users visit the website daily? 
@@ -15,6 +15,8 @@ Limit 30;
 ```
 <img width="1051" height="592" alt="Screenshot 2026-04-01 at 3 05 24 PM" src="https://github.com/user-attachments/assets/11aff33f-63dd-4210-bfc9-7c76280ed570" />
 
+## User engagement was found to be very minimal to begin the month with most days leading to 0 website visits, however the 2nd half of the month and the subsequent months in the year 2019 steadily saw more and more user engagement albeit still at small numbers. As the e-commerce company grew and the website started gaining more popularity, the subsequent years yielded more and more monthly activity on its website, reaching consistently in the hundreds at its peak in March 2026.
+
 
  
  # How many users visit the website per month?
@@ -27,8 +29,11 @@ count(distinct user_id) AS monthly_active_users
  month
  ORDER BY 
  month
-<img width="1710" height="1107" alt="Screenshot 2026-04-01 at 3 07 22 PM" src="https://github.com/user-attachments/assets/adcaa1ab-4416-4d89-a7b3-e9cdaa4b4578" />
 ```
+
+<img width="1710" height="1107" alt="Screenshot 2026-04-01 at 7 32 32 PM" src="https://github.com/user-attachments/assets/12e8e76e-cc5d-4a3d-8b84-4cc36d3101ff" />
+
+
 
 
 
