@@ -1,4 +1,4 @@
-[bquxjob_6da5681e_19d4a700116.csv](https://github.com/user-attachments/files/26419178/bquxjob_6da5681e_19d4a700116.csv)[bquxjob_7382efa6_19d4a6904b8.csv](https://github.com/user-attachments/files/26419066/bquxjob_7382efa6_19d4a6904b8.csv)# E-Commerce-Revenue-and-Consumer-Analysis-SQL-Project
+# E-Commerce-Revenue-and-Consumer-Analysis-SQL-Project
 ## Project Description: Analyzed e-commerce data using SQL in BigQuery (thelook_ecommerce dataset) to evaluate customer behavior, sales performance, and website activity. Developed queries to track daily and monthly user engagement and segment customers into one-time and repeat buyers based on purchase behavior.
 
 # How many users visit the website daily? 
