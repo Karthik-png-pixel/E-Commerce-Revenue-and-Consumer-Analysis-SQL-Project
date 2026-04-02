@@ -1,5 +1,5 @@
-[bq-results-20260401-233052-1775086258520.csv](https://github.com/user-attachments/files/26423271/bq-results-20260401-233052-1775086258520.csv)# E-Commerce-Revenue-and-Consumer-Analysis-SQL-Project
-## Project Description: Analyzed e-commerce data using SQL in BigQuery (thelook_ecommerce dataset) to evaluate customer behavior, sales performance, and website activity. Developed queries to track daily and monthly user engagement and segment customers into one-time and repeat buyers based on purchase behavior.
+# E-Commerce-Revenue-and-Consumer-Analysis-SQL-Project
+## Project Description: Analyzed e-commerce data using SQL in BigQuery (thelook_ecommerce dataset) to evaluate customer behavior, sales performance, and website activity. Developed queries to track daily and monthly user engagement, customer preference by product category, and segment customers into one-time and repeat buyers based on purchase behavior.
 
 # How many users visit the website daily? 
 ```
@@ -32,7 +32,7 @@ count(distinct user_id) AS monthly_active_users
 
 <img width="1710" height="1107" alt="Screenshot 2026-04-01 at 7 32 32 PM" src="https://github.com/user-attachments/assets/12e8e76e-cc5d-4a3d-8b84-4cc36d3101ff" />
 
-### 5 year trend 
+### 7 year trend 
 <img width="1710" height="1107" alt="Screenshot 2026-04-01 at 7 47 04 PM" src="https://github.com/user-attachments/assets/d6f22537-4151-46ff-a7cf-020d4a98d825" />
 
 
@@ -44,7 +44,7 @@ count(distinct user_id) AS monthly_active_users
 
 
 
- # Revenue Analysis: Find the total revenue by  product category and identify which one yielded the highest profitablity.
+ # Revenue Analysis: Find the total revenue by product category and identify which one yielded the highest profitablity.
 
  ```
  SELECT
@@ -61,6 +61,13 @@ count(distinct user_id) AS monthly_active_users
 ```
 
 <img width="1710" height="1107" alt="Screenshot 2026-04-01 at 3 08 42 PM" src="https://github.com/user-attachments/assets/14d3cd73-0506-4257-bbf3-5db17d10abe4" />
+
+<img width="1710" height="1107" alt="Screenshot 2026-04-01 at 8 03 50 PM" src="https://github.com/user-attachments/assets/47e46e6c-5f51-4ff8-8707-93e62ade39e3" />
+
+
+
+
+### The graph illustrates that the top 8 product revenue drivers net at least $100,000 in total from the timespan of 2019-2026. The most popular products ended up comprising over 50% of the overall net revenue (nearly 52% to be precise).
 
 
  # Customer Loyalty Analysis
