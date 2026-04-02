@@ -86,4 +86,4 @@ count(distinct user_id) AS monthly_active_users
 
 <img width="1710" height="1107" alt="Screenshot 2026-04-01 at 3 11 13 PM" src="https://github.com/user-attachments/assets/8f3f8565-77fb-464d-a817-54303fda87e9" />
 
-# From the results obtained, out of the roughly 80,000 customers who made at least 1 purchase from the company, about 50,000 customers only placed a single order while the reamining 30,000 placed mutiple (2-4 orders). This signals that the company might consider making a more concerted effort such as promoting more discounts and customer friendly deals to convert the one-time customers into more frequent ones.
+### From the results obtained, out of the roughly 80,000 customers who made at least 1 purchase from the company, about 50,000 customers only placed a single order while the reamining 30,000 placed mutiple (2-4 orders). This signals that the company might consider making a more concerted effort such as promoting more discounts and customer friendly deals to convert the one-time customers into more frequent ones.
