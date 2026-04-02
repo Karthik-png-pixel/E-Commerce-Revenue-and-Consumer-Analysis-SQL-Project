@@ -86,4 +86,12 @@ count(distinct user_id) AS monthly_active_users
 
 <img width="1710" height="1107" alt="Screenshot 2026-04-01 at 3 11 13 PM" src="https://github.com/user-attachments/assets/8f3f8565-77fb-464d-a817-54303fda87e9" />
 
-### From the results obtained, out of the roughly 80,000 customers who made at least 1 purchase from the company, about 50,000 customers only placed a single order while the reamining 30,000 placed mutiple (2-4 orders). This signals that the company might consider making a more concerted effort such as promoting more discounts and customer friendly deals to convert the one-time customers into more frequent ones.
+### From the results obtained, out of the roughly 80,000 customers who made at least 1 purchase from the company, about 50,000 customers only placed a single order while the reamining 30,000 placed mutiple (2-4 orders). 
+
+# Key Takeways: ## 
+
+## Top 8 product categories generate ~54% of total revenue, indicating high revenue concentration.
+## A large portion of customers are one-time buyers, suggesting low retention.
+##  Repeat customers contribute a disproportionate share of revenue.
+
+## Future Steps: This signals that the company might consider making a more concerted effort such as promoting more discounts and customer friendly deals to convert the one-time customers into more frequent ones. They could also target implementing more personalized marketing strategies and loyalty rewars programs to incentize returning customers. As for the product inventory itself, identifying popular product categories and continuing to market those effectively should result in high sales, while understanding why the low performing products aren't yielding as much sales would be wortwhile to facilitate diversification.
