@@ -91,7 +91,7 @@ count(distinct user_id) AS monthly_active_users
 # Key Takeways:
 
 # Top 8 product categories generate ~54% of total revenue, indicating high revenue concentration.
-# A large portion of customers are one-time buyers, suggesting low retention.
-#  Repeat customers contribute a disproportionate share of revenue.
+# A large portion of customers are one-time buyers, suggesting low retention rates.
+# Repeat customers contribute to a disproportionate share of revenue.
 
 ## Future Steps: This signals that the company might consider making a more concerted effort such as promoting more discounts and customer friendly deals to convert the one-time customers into more frequent ones. They could also target implementing more personalized marketing strategies and loyalty rewards programs to incentivize returning customers. As for the product inventory itself, identifying popular product categories and continuing to market those effectively should result in high sales, while understanding why the low performing products aren't yielding as much sales should be prioritized to facilitate further growth.
