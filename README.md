@@ -37,7 +37,7 @@ count(distinct user_id) AS monthly_active_users
 
 
 
-## As the e-commerce website started gaining more popularity, the subsequent years yielded higher monthly activity on its website, reaching consistently in the hundreds at its peak. This marked a significant and notable uptick in overall engagement from its early days in 2019 when user activity was largely in the single digits.
+## As the e-commerce website started gaining more popularity, the subsequent years yielded higher monthly activity on its website, averaging around 640 additional customers visting the webite monthly. The graph shows the year to year progression of users from 2019 to 2025 with the peak reaching 4500 users monthly in 2025.
 
 
 
