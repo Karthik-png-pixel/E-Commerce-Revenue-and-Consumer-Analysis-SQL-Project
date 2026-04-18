@@ -37,7 +37,7 @@ count(distinct user_id) AS monthly_active_users
 
 
 
-## As the e-commerce company grew and the website started gaining more popularity, the subsequent years yielded higher monthly activity on its website, reaching consistently in the hundreds at its peak. This marked a significant and notable uptick in overall engagement from its early days in 2019 when user activity was largely in the single digits.
+## As the e-commerce website started gaining more popularity, the subsequent years yielded higher monthly activity on its website, reaching consistently in the hundreds at its peak. This marked a significant and notable uptick in overall engagement from its early days in 2019 when user activity was largely in the single digits.
 
 
 
